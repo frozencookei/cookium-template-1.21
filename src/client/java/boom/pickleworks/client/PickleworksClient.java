@@ -1,4 +1,4 @@
-package boom.cookium.client;
+package boom.pickleworks.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

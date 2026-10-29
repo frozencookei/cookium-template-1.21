@@ -18,8 +18,8 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.pickleworks.pickleworks_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.COOKIUM);
-                        entries.add(ModBlocks.COOKIUM_ORE);
-                        entries.add(ModBlocks.COOKIUM_BLOCK);
+                        entries.add(ModBlocks.COOKIUM_ORE.asItem());
+                        entries.add(ModBlocks.COOKIUM_BLOCK.asItem());
                     }).build());
 
 

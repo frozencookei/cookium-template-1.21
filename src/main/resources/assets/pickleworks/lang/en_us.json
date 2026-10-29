@@ -3,5 +3,7 @@
   "item.pickleworks.raw_cookium": "Raw Cookium",
   "block.pickleworks.cookium_block": "Block of Cookium",
   "block.pickleworks.cookium_ore": "Cookium Ore",
-  "itemGroup.pickleworks.pickleworks_items": "Pickleworks Items"
+  
+  "itemgroup.pickleworks.pickleworks_items": "Pickleworks"
+
 }
