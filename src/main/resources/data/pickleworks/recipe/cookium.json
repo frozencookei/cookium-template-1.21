@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+        "item": "pickleworks:cookium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "pickleworks:cookium"
+  }
+
+}
