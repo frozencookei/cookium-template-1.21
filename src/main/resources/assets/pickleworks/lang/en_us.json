@@ -1,8 +1,12 @@
 {
-  "item.pickleworks.cookium": "Cookium",
-  "item.pickleworks.raw_cookium": "Raw Cookium",
-  "block.pickleworks.cookium_block": "Block of Cookium",
-  "block.pickleworks.cookium_ore": "Cookium Ore",
+
+  "block.pickleworks.basic_pickler": "Basic Pickler",
+
+  "item.pickleworks.netherite_robot_arm": "Netherite Robot Arm",
+
+  "item.pickleworks.basic_battery": "Basic NS Battery",
+
+  "item.pickleworks.steel": "Steel Ingot",
   
   "itemgroup.pickleworks.pickleworks_items": "Pickleworks"
 

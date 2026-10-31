@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "":{
+      "model": "pickleworks:block/basic_pickler"
+    }
+  }
+}

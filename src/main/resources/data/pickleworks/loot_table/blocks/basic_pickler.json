@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pickleworks:cookium_block"
+          "name": "pickleworks:basic_pickler"
         }
       ],
       "rolls": 1.0
