@@ -26,6 +26,8 @@ public class ModItemGroups {
                         entries.add(ComponentItems.BASIC_BATTERY);
                         entries.add(MiscItems.STEEL);
                         entries.add(MachineBlocks.BASIC_COMPRESSOR.asItem());
+                        entries.add(MachineBlocks.ADVANCED_COMPRESSOR.asItem());
+                        entries.add(MachineBlocks.ADVANCED_PICKLER.asItem());
                     }).build());
 
 

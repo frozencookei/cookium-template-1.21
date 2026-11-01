@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "pickleworks:block/advanced_pickler/north",
+    "up": "pickleworks:block/advanced_pickler/top",
+    "down": "pickleworks:block/advanced_pickler/bottom",
+    "north": "pickleworks:block/advanced_pickler/north",
+    "south": "pickleworks:block/advanced_pickler/south",
+    "east": "pickleworks:block/advanced_pickler/east",
+    "west": "pickleworks:block/advanced_pickler/west"
+  }
+}
