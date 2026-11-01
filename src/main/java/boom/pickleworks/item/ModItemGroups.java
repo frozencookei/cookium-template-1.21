@@ -25,6 +25,7 @@ public class ModItemGroups {
                         entries.add(ComponentItems.NETHERITE_ROBOT_ARM);
                         entries.add(ComponentItems.BASIC_BATTERY);
                         entries.add(MiscItems.STEEL);
+                        entries.add(MachineBlocks.BASIC_COMPRESSOR.asItem());
                     }).build());
 
 

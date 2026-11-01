@@ -14,7 +14,8 @@ import net.minecraft.util.Identifier;
 public class MachineBlocks {
 
     public static final Block BASIC_PICKLER = registerBlock("basic_pickler", new Block(AbstractBlock.Settings.create().strength(3f).sounds(BlockSoundGroup.METAL)));
-    
+    public static final Block BASIC_COMPRESSOR = registerBlock("basic_compressor", new Block(AbstractBlock.Settings.create().strength(3f).sounds(BlockSoundGroup.METAL)));
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, Identifier.of(Pickleworks.MOD_ID, name), block);

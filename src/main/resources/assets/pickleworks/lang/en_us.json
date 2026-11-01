@@ -8,6 +8,8 @@
 
   "item.pickleworks.steel": "Steel Ingot",
   
-  "itemgroup.pickleworks.pickleworks_items": "Pickleworks"
+  "itemgroup.pickleworks.pickleworks_items": "Pickleworks",
+
+  "block.pickleworks.basic_compressor": "Basic Compressor"
 
 }
