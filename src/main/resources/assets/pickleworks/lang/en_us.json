@@ -10,6 +10,8 @@
   
   "itemgroup.pickleworks.pickleworks_items": "Pickleworks",
 
-  "block.pickleworks.basic_compressor": "Basic Compressor"
+  "block.pickleworks.basic_compressor": "Basic Compressor",
+
+  "block.pickleworks.advanced_compressor": "Advanced Compressor"
 
 }

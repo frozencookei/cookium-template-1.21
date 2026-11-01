@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "pickleworks:block/basic_compressor_north",
-    "up": "pickleworks:block/basic_compressor_top",
-    "down": "pickleworks:block/basic_compressor_bottom",
-    "north": "pickleworks:block/basic_compressor_north",
-    "south": "pickleworks:block/basic_compressor_south",
-    "east": "pickleworks:block/basic_compressor_east",
-    "west": "pickleworks:block/basic_compressor_west"
+    "particle": "pickleworks:block/basic_compressor/north",
+    "up": "pickleworks:block/basic_compressor/top",
+    "down": "pickleworks:block/basic_compressor/bottom",
+    "north": "pickleworks:block/basic_compressor/north",
+    "south": "pickleworks:block/basic_compressor/south",
+    "east": "pickleworks:block/basic_compressor/east",
+    "west": "pickleworks:block/basic_compressor/west"
   }
 }
