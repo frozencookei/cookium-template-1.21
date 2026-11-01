@@ -14,6 +14,8 @@
 
   "block.pickleworks.advanced_compressor": "Advanced Compressor",
 
-  "block.pickleworks.advanced_pickler": "Advanced Pickler"
+  "block.pickleworks.advanced_pickler": "Advanced Pickler",
+
+  "block.pickleworks.basic_motor": "Basic Motor"
 
 }

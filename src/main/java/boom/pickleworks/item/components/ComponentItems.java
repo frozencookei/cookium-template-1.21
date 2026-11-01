@@ -12,6 +12,8 @@ public class ComponentItems {
             registerItem("netherite_robot_arm", new Item(new Item.Settings()));
     public static final Item BASIC_BATTERY =
             registerItem("basic_battery", new Item(new Item.Settings()));
+    public static final Item BASIC_MOTOR =
+            registerItem("basic_motor", new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(
