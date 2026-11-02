@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SNS",
+    " S "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "pickleworks:steel_plate"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "pickleworks:steel_casing"
+  }
+}

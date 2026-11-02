@@ -34,6 +34,10 @@ public class ModItemGroups {
                         entries.add(ComponentItems.BASIC_MOTOR);
                         entries.add(ComponentItems.COPPER_WIRES);
                         entries.add(ComponentItems.NETHERITE_CASING);
+                        entries.add(ComponentItems.STEEL_PLATE);
+                        entries.add(ComponentItems.WIRECUTTERS);
+                        entries.add(ComponentItems.HAMMER);
+                        entries.add(ComponentItems.SILICONE);
                     }).build());
 
 

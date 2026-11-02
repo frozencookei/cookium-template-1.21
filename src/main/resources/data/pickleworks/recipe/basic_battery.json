@@ -2,25 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "NCN",
-    "GSG",
-    "RCR"
+    " C ",
+    "CSC",
+    "CC "
   ],
   "key": {
-    "N": {
-      "item": ""
-    },
     "S": {
       "item": "minecraft:nether_star"
     },
-    "G": {
-      "item": ""
-    },
-    "R": {
-      "item": ""
-    },
     "C": {
-      "item": ""
+      "item": "pickleworks:steel_casing"
     }
   },
   "result": {

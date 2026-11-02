@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "pickleworks:steel"
+    },
+    "C": {
+      "item": "pickleworks:hammer"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "pickleworks:steel_plate"
+  }
+}

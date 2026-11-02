@@ -2,6 +2,7 @@ package boom.pickleworks.item.components;
 
 import boom.pickleworks.Pickleworks;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -16,8 +17,27 @@ public class ComponentItems {
             registerItem("basic_motor", new Item(new Item.Settings()));
     public static final Item COPPER_WIRES =
             registerItem("copper_wires", new Item(new Item.Settings()));
-        public static final Item NETHERITE_CASING =
-            registerItem("netherite_casing", new Item(new Item.Settings()));
+    public static final Item NETHERITE_CASING =
+        registerItem("netherite_casing", new Item(new Item.Settings()));
+    public static final Item STEEL_PLATE =
+        registerItem("steel_plate", new Item(new Item.Settings()));
+    public static final Item SILICONE =
+        registerItem("silicone", new Item(new Item.Settings()));
+public static final Item WIRECUTTERS = registerItem("wirecutters",
+    new Item(new Item.Settings().maxCount(1)) {
+        @Override
+        public ItemStack getRecipeRemainder(ItemStack stack) {
+            return stack.copy();
+        }
+    });
+
+public static final Item HAMMER = registerItem("hammer",
+    new Item(new Item.Settings().maxCount(1)) {
+        @Override
+        public ItemStack getRecipeRemainder(ItemStack stack) {
+            return stack.copy();
+        }
+    });
 
 
     private static Item registerItem(String name, Item item) {
