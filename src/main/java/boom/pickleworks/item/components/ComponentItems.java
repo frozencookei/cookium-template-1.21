@@ -14,6 +14,11 @@ public class ComponentItems {
             registerItem("basic_battery", new Item(new Item.Settings()));
     public static final Item BASIC_MOTOR =
             registerItem("basic_motor", new Item(new Item.Settings()));
+    public static final Item COPPER_WIRES =
+            registerItem("copper_wires", new Item(new Item.Settings()));
+        public static final Item NETHERITE_CASING =
+            registerItem("netherite_casing", new Item(new Item.Settings()));
+
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(

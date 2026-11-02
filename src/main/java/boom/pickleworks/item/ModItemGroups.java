@@ -32,6 +32,8 @@ public class ModItemGroups {
                         entries.add(MachineBlocks.ADVANCED_COMPRESSOR.asItem());
                         entries.add(MachineBlocks.ADVANCED_PICKLER.asItem());
                         entries.add(ComponentItems.BASIC_MOTOR);
+                        entries.add(ComponentItems.COPPER_WIRES);
+                        entries.add(ComponentItems.NETHERITE_CASING);
                     }).build());
 
 

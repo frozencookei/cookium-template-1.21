@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCN",
+    "GSG",
+    "RCR"
+  ],
+  "key": {
+    "N": {
+      "item": ""
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "G": {
+      "item": ""
+    },
+    "R": {
+      "item": ""
+    },
+    "C": {
+      "item": ""
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "pickleworks:basic_battery"
+  }
+}

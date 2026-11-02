@@ -16,6 +16,10 @@
 
   "block.pickleworks.advanced_pickler": "Advanced Pickler",
 
-  "block.pickleworks.basic_motor": "Basic Motor"
+  "block.pickleworks.basic_motor": "Basic Motor",
+
+  "item.pickleworks.copper_wires": "Copper Wires",
+
+  "item.pickleworks.netherite_casing": "Netherite Casing"
 
 }
