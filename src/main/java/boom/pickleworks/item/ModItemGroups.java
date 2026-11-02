@@ -25,7 +25,7 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.pickleworks.pickleworks_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(MachineBlocks.BASIC_PICKLER.asItem());
-                        entries.add(ComponentItems.NETHERITE_ROBOT_ARM);
+                        entries.add(ComponentItems.BASIC_ROBOT_ARM);
                         entries.add(ComponentItems.BASIC_BATTERY);
                         entries.add(MiscItems.STEEL);
                         entries.add(MachineBlocks.BASIC_COMPRESSOR.asItem());
@@ -33,7 +33,7 @@ public class ModItemGroups {
                         entries.add(MachineBlocks.ADVANCED_PICKLER.asItem());
                         entries.add(ComponentItems.BASIC_MOTOR);
                         entries.add(ComponentItems.COPPER_WIRES);
-                        entries.add(ComponentItems.NETHERITE_CASING);
+                        entries.add(ComponentItems.STEEL_CASING);
                     }).build());
 
 
