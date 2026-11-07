@@ -2,7 +2,7 @@
 
   "block.pickleworks.basic_pickler": "Basic Pickler",
 
-  "item.pickleworks.netherite_robot_arm": "Netherite Robot Arm",
+  "item.pickleworks.basic_robot_arm": "Basic Robot Arm",
 
   "item.pickleworks.basic_battery": "Basic NS Battery",
 
@@ -20,7 +20,7 @@
 
   "item.pickleworks.copper_wires": "Copper Wires",
 
-  "item.pickleworks.netherite_casing": "Netherite Casing",
+  "item.pickleworks.steel_casing": "Steel Casing",
 
   "item.pickleworks.steel_plate": "Steel Plate",
 
@@ -28,6 +28,8 @@
 
   "item.pickleworks.hammer": "Hammer",
 
-  "item.pickleworks.silicone": "Silicone"
+  "item.pickleworks.silicone": "Silicon",
+
+  "item.pickleworks.villager_brain": "Villager Brain"
 
 }

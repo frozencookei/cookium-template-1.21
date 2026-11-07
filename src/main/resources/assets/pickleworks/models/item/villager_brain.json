@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "pickleworks:tool/hammer"
+    "layer0": "pickleworks:item/villager_brain"
   }
 }
